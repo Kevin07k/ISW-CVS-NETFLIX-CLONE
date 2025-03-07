@@ -1,12 +1,21 @@
 # Documento de Requisitos de Software
 
 ## 1. Introducción.
-### 1.1. Alacance de Producto.
+### 1.1. Alcance de Producto.
 ### 1.2. Valor Objetivo.
+¿Por que la hacemos y que veneficios trae a la empresa?
+Netflex es una aplicacion que nace apartir de la nesecidad de nuevas funciones con planes mas accesibles y promociones junto a un sistema de puntos para poder premier el activo consumo de contenido en la plataforma.
+Llegara con veneficios de mejora a nivel economico con el tema de las suscripciones y pagos por alquilo de peliculas individuales.
 ### 1.3. Público Objetivo.
 ### 1.4. Uso Previsto.
+Se prevee el uso en los siguientes dispostivos:
+* Laptops
+* Computadora de Escritorio
+* Celulares
+* Tablets
+En todo tipo de sistema operativos ya que sera un servicio de la web.
 ### 1.5. Descripción General.
 ## 2. Requisitos.
-### 2.1. Requistos Funcionales.
-### 2.2. Requistos de Diseño.
-### 2.2. Requistos no Funcionales.
+### 2.1. Requisitos Funcionales.
+### 2.2. Requisitos de Diseño.
+### 2.2. Requisitos no Funcionales.
