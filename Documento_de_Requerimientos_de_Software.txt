@@ -71,3 +71,6 @@ Esta sección detalla de manera concreta los requisitos que debe cumplir Netflex
 - Disponibilidad 24/7 y soporte técnico eficiente para la resolución de incidencias.
 - Escalabilidad para soportar un crecimiento sostenido de usuarios.
 - Compatibilidad con múltiples navegadores y sistemas operativos.
+
+Nombre del estudiante: 
+Enlace del repositorio: https://github.com/Kevin07k/ISW-CVS-NETFLIX-CLONE
