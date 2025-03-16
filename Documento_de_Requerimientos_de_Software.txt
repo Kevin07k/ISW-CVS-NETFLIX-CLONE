@@ -17,15 +17,15 @@ Netflex está pensado para ser una solución para todos: desde niño y jóvenes 
 ### 1.4. Uso Previsto.
 Se prevé el uso de Netflex en los siguientes dispositivos:
 
-*Laptops
+- Laptops
 
-*Computadoras de escritorio
+- Computadoras de escritorio
 
-*Celulares
+- Celulares
 
-*Tablets
+- Tablets
 
-*El producto estará disponible como servicio web y aplicación nativa para distintos sistemas operativos, garantizando compatibilidad y una experiencia uniforme. Se enfatiza la adaptabilidad del diseño (responsive design) para asegurar que la calidad del servicio se mantenga sin importar el dispositivo utilizado.
+- El producto estará disponible como servicio web y aplicación nativa para distintos sistemas operativos, garantizando compatibilidad y una experiencia uniforme. Se enfatiza la adaptabilidad del diseño (responsive design) para asegurar que la calidad del servicio se mantenga sin importar el dispositivo utilizado.
 
 ### 1.5. Descripción General.
 Netflex es una solución integral de streaming que combina lo mejor de las plataformas tradicionales con innovaciones tecnológicas disruptivas. Además de sus funciones básicas, se destaca por la implementación de FlexPoints, un sistema que recompensa a los usuarios por cada interacción y consumo de contenido. La plataforma también incorpora tres módulos de inteligencia artificial propios: un recomendador de películas que sugiere contenido basado en el historial del usuario, un traductor de subtítulos que facilita el acceso a contenidos en varios idiomas, y una herramienta que convierte subtítulos en audio, haciendo el servicio más accesible. Adicionalmente, Netflex utiliza un chatbot, es decir, un módulo basado en una API similar a ChatGPT, que permite identificar o sugerir películas a partir de descripciones vagas, como el estilo de animación, el género o datos imprecisos sobre la trama y los personajes. Todo el sistema se apoya en una única base de datos centralizada, accesible a través de un servidor seguro, lo que garantiza la integridad y confidencialidad de la información.
@@ -73,4 +73,5 @@ Esta sección detalla de manera concreta los requisitos que debe cumplir Netflex
 - Compatibilidad con múltiples navegadores y sistemas operativos.
 
 Nombre del estudiante: 
+
 Enlace del repositorio: https://github.com/Kevin07k/ISW-CVS-NETFLIX-CLONE
